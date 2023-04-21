@@ -1,5 +1,6 @@
-# simple-blog
-A seed that can be used as a basis for a Node.js + Express.js project
+# Node + Express Seed
+A seed that can be used as a basis for a Node.js + Express.js project.
+It uses hbs to render the html.
 
 ## How to run
 If you want to run this project, follow these steps!
