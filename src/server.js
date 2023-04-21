@@ -1,3 +1,5 @@
+'use strict';
+
 //Imports
 const dirs = require('./utilities/directories');
 const express = require('express');
