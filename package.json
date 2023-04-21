@@ -1,0 +1,30 @@
+{
+  "name": "nodeExpressSeed",
+  "version": "1.0.0",
+  "description": "A seed that can be used as a basis for a Node.js + Express.js project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "watch": "nodemon -e js,html,css -w src src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KSWorm93/simple-blog.git"
+  },
+  "keywords": [
+    "seed", "quickstart", "node.js", "express.js"
+  ],
+  "author": "Kasper Worm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KSWorm93/simple-blog/issues"
+  },
+  "homepage": "https://github.com/KSWorm93/simple-blog#README",
+  "dependencies": {
+    "express": "^4.18.2",
+    "hbs": "^4.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
