@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KSWorm93/simple-blog.git"
+    "url": "git+https://github.com/KSWorm93/nodeExpressSeed.git"
   },
   "keywords": [
     "seed", "quickstart", "node.js", "express.js"
@@ -17,9 +17,9 @@
   "author": "Kasper Worm",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/KSWorm93/simple-blog/issues"
+    "url": "https://github.com/KSWorm93/nodeExpressSeed/issues"
   },
-  "homepage": "https://github.com/KSWorm93/simple-blog#README",
+  "homepage": "https://github.com/KSWorm93/nodeExpressSeed#README",
   "dependencies": {
     "express": "^4.18.2",
     "hbs": "^4.2.0"
